@@ -14,7 +14,7 @@
 ### 🌐 Connect with Me:
 
 <p align="center">
-    <a href="https://fady.vercel.app/" target="_blank">
+    <a href="https://portofolio-fady.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
     </a>
     <a href="https://www.linkedin.com/in/fady-raouf-434a62199/" target="_blank">
@@ -44,17 +44,9 @@
 
 ---
 
-### 🔥 GitHub Stats:
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FR720&show_icons=true&theme=radical" alt="Fady's GitHub stats">
-</p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR720&theme=radical" alt="Fady's GitHub Streak">
-</p>
 
----
 
 ### 🏆 Achievements:
 
